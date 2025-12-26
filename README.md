@@ -55,7 +55,7 @@ Even with stable demand forecasts:
 ---
 
 ## 📁 Repository Structure
-
+```bash
 ├── docs/
 │ ├── problem_statement_01_blind_promotion.md
 │ ├── data_preprocessing_guidelines.md
@@ -119,16 +119,6 @@ Even with stable demand forecasts:
 
 ---
 
-## 🛠️ Technology Stack
-
-- **Python**
-- pandas, NumPy
-- scikit-learn
-- matplotlib / seaborn
-- Jupyter Notebook
-
----
-
 ## 📈 Business Impact
 
 This solution enables organizations to:
@@ -142,8 +132,11 @@ This solution enables organizations to:
 
 ---
 
-## 🚀 How to Run
+## ⚙️ Setup & Installation
 
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+Clone the repository and install dependencies:
+
+```bash
+git clone <https://github.com/keniondang/Stormchaser_Datastorm_Submission>
+cd <Stormchaser_Datastorm_Submission>
+pip install -r requirements.txt
