@@ -3,3 +3,5 @@ numpy
 scikit-learn
 lightgbm
 statsmodels
+matplotlib
+seaborn
